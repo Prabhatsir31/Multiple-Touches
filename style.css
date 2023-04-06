@@ -1,0 +1,11 @@
+body,html{
+    margin:0px;
+    height:100vh;
+    width:100%;
+    background:black;
+}
+canvas{
+    background:black;
+    width:100%;
+    position:fixed;
+}
